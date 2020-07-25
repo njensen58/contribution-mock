@@ -1,5 +1,5 @@
-public class Civqbs {
+public class Ccvifr {
     public static void main() {
-        System.out.println("kbexy");
+        System.out.println("novpm");
     }
 }
